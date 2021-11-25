@@ -121,7 +121,7 @@ Cleaned Data
 
 """
 
-data.Head()
+data.head()
 
 """
 Spliting Dataset
